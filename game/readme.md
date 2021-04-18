@@ -23,7 +23,7 @@ $ make
 ## Tools
 The following tools were developed by Ronan and Nielson respectively to assist in our project development. The first link is a web application developed by Ronan used to assist us with level design and programmable characters. The second link is a python script that was developed by Nielson used to convert bitmaps into hex strings used in character_set.asm.
  
-- **https://superdaxter.github.io/599.82_content/**
+- **https://superdaxter.github.io/vic20_content_maker/**
 - **https://replit.com/@nielsontrung/binary-image-to-hex-array-converter**
 ## Paratext
 | Cover Art | Manual | Magazine Ad |
@@ -192,7 +192,7 @@ The following are a list of all the subroutines in game.asm
 - Graphics
 - Platform design
 - Character set
-- https://superdaxter.github.io/599.82_content/ (VIC20 Content Creator)
+- https://superdaxter.github.io/vic20_content_maker/ (VIC20 Content Creator)
 - manual/guide paratext: http://pages.cpsc.ucalgary.ca/~ronan.ranknemish1/599.82/theWorld_Paratext.png
 #### Alfa
 - Levels design
