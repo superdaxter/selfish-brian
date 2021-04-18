@@ -1,4 +1,4 @@
-# Final Project Submission cpsc 599.82 winter 2021 Group 3
+# Selfish Brian - Final Project Submission (CPSC 599.82 W21)
 The following document outlines our project tools, paratext, files, subroutines, and contributions.
 - [**Makefile**](#makefile)
 - [**Tools**](#tools)
@@ -176,7 +176,7 @@ The following are a list of all the subroutines in game.asm
 - timer
     - general purpose busy loop used in multiple files to delay visual and audio subroutines
 ## Contributions
-#### Nielson
+#### Nielson Trung
 - character_set.asm
 - collision.asm
 - game.asm
@@ -187,14 +187,14 @@ The following are a list of all the subroutines in game.asm
 - utilities.asm
 - https://replit.com/@nielsontrung/binary-image-to-hex-array-converter
 - paratext: https://pages.cpsc.ucalgary.ca/~nielson.trung/599.82/paratext.png
-#### Ronan
+#### Ronan Rank-Nemish
 - Level creation
 - Graphics
 - Platform design
 - Character set
 - https://superdaxter.github.io/vic20_content_maker/ (VIC20 Content Creator)
 - manual/guide paratext: http://pages.cpsc.ucalgary.ca/~ronan.ranknemish1/599.82/theWorld_Paratext.png
-#### Alfa
+#### Alfath Zikir
 - Levels design
 - Collision detection
 - Graphics
